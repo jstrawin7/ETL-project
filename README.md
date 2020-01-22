@@ -1,1 +1,2 @@
-# ETL-project
+# ETL-Project
+ETL Project repository
